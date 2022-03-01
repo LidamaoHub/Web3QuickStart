@@ -1,5 +1,6 @@
 # web3jsdemo
 
+![cover](./src/assets/cover.png)
 这个项目的几个案例将分别介绍使用web3.js组件连接用户钱包,切换网络,读取链上内容,写入链上内容的简单流程和简单代码实现
 
 ## Project setup
